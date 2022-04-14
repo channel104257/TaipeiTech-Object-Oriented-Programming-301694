@@ -1,7 +1,7 @@
 #include "Time.h"
-
+ 
 using namespace std;
-
+  
 void Time::setTime(unsigned short hour, unsigned short minute, unsigned short second)
 {
 	returnString = "";
